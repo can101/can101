@@ -33,7 +33,7 @@ my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study co
 <a style="outline:none;text-decoration:none;" href="https://linkedin.com/in/can çelik" target="blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="linkedin-in-brands.svg" alt="can çelik" /></a>
 <a style="outline:none;text-decoration:none;" href="https://instagram.com/celikcan529" target="blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="instagram-brands.svg" alt="celikcan529" /></a>
 <a style="outline:none;text-decoration:none;" href="https://discord.gg/Dz3sUFK5Ch" target="blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="discord-brands.svg" alt="Dz3sUFK5Ch" /></a>
-<a style="outline:none;text-decoration:none;" href="/https://juniornote.com" target="blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="smile-wink-regular.svg" alt="https://juniornote.com" /></a>
+<a style="outline:none;text-decoration:none;" href="https://juniornote.com" target="blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="smile-wink-regular.svg" alt="https://juniornote.com" /></a>
 </p>
 
 <h2 align="left" style="color:#90979A;">Languages and Tools</h2>
