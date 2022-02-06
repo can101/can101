@@ -26,7 +26,9 @@
 my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
 </p>
 <!--  about me end ----------------------------------------->
-
+<!-- published projects begin -->
+<h2 style="color:#90979A;">Published Projects</h2>
+<!-- published projects end -->
 <h2 align="left" style="color:#90979A;">Connect with me</h2>
 <p align="left">
 <a style="outline:none;text-decoration:none;" href="https://twitter.com/canelik24386471" title="canelik24386471" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="twitter-brands.svg" alt="canelik24386471" /></a>
