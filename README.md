@@ -26,10 +26,20 @@
 my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
 </p>
 <!--  about me end ----------------------------------------->
+
 <!-- published projects begin -->
 <h2 style="color:#90979A;">Published Projects</h2>
-[https://juniornote.com/aboutus](https://juniornote.com/aboutus)
+<h4>juniornote.com</h4>
+<p>my blog web site</p>
+<a target="_blank" href="https://www.juniornote.com"><img src="juniornote.png"/></a>
+<h4>CountDown</h4>
+<p>countdown example</p>
+<a target="_blank" href="https://vigorous-brattain-715707.netlify.app/"><img src="counter.png"/></a>
+<h4>Wall Clock</h4>
+<p>wall clock example</p>
+<a target="_blank" href="https://upbeat-tesla-5d3f8d.netlify.app/"><img src="wallclock.png"/></a>
 <!-- published projects end -->
+
 <h2 align="left" style="color:#90979A;">Connect with me</h2>
 <p align="left">
 <a style="outline:none;text-decoration:none;" href="https://twitter.com/canelik24386471" title="canelik24386471" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="twitter-brands.svg" alt="canelik24386471" /></a>
