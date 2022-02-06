@@ -20,7 +20,7 @@
 - 📫 How to reach me **ccan6835@gmail.com**
 
 - ⚡ Fun fact **I am curious person and love to learn.I develop myself in web programming and web design.**
-<!-- <!-- abot me begin --------------------------------------- -->
+<!-- <!-- about me begin --------------------------------------- -->
 <h2 style="color:#90979A;">About me</h2>
 <p style="color:#cbcdcd;">
 my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
@@ -28,6 +28,7 @@ my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study co
 <!--  about me end ----------------------------------------->
 <!-- published projects begin -->
 <h2 style="color:#90979A;">Published Projects</h2>
+[https://juniornote.com/aboutus](https://juniornote.com/aboutus)
 <!-- published projects end -->
 <h2 align="left" style="color:#90979A;">Connect with me</h2>
 <p align="left">
