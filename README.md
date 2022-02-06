@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **home**
 
-- 🌱 I’m currently learning **react-native and vue**
+- 🌱 I’m currently learning **graphql security and c#**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
