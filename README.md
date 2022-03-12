@@ -34,7 +34,7 @@ my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study co
 <a target="_blank" href="https://www.juniornote.com"><img src="juniornote.png"/></a>
 <h4>Wordle Clone</h4>
 <p>Wordle video game</p>
-<a target="_blank" href="https://upbeat-tesla-5d3f8d.netlify.app/"><img src="wallclock.png"/></a>
+<a target="_blank" href="https://app-wordle-candevs.herokuapp.com/"><img src="wordle_view.png"/></a>
 <h4>CountDown</h4>
 <p>countdown example</p>
 <a target="_blank" href="https://vigorous-brattain-715707.netlify.app/"><img src="counter.png"/></a>
