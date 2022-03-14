@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3> -->
-<img src="header.svg" />
+<img src="header1.svg" />
 
  <img src="https://komarev.com/ghpvc/?username=can101&label=Profile%20views&color=0e75b6&style=flat" alt="can101" />
  <a href="https://twitter.com/canelik24386471" style="outline:none;text-decoration:none;" target="blank"><img src="https://img.shields.io/twitter/follow/canelik24386471?logo=twitter&style=for-the-badge" alt="canelik24386471" /></a> 
