@@ -46,7 +46,7 @@ my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study co
 <h2 align="left" style="color:#90979A;">Connect with me</h2>
 <p align="left">
 <a style="outline:none;text-decoration:none;" href="https://twitter.com/canelik24386471" title="canelik24386471" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="twitter-brands.svg" alt="canelik24386471" /></a>
-<a style="outline:none;text-decoration:none;" href="https://linkedin.com/in/can çelik" title="can çelik" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="linkedin-in-brands.svg" alt="can çelik" /></a>
+<a style="outline:none;text-decoration:none;" href="https://www.linkedin.com/in/can-%C3%A7elik-3b4b581b1/" title="can çelik" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="linkedin-in-brands.svg" alt="can çelik" /></a>
 <a style="outline:none;text-decoration:none;" href="https://instagram.com/celikcan529" title="celikcan529" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="instagram-brands.svg" alt="celikcan529" /></a>
 <a style="outline:none;text-decoration:none;" href="https://discord.gg/Dz3sUFK5Ch" title="discord group" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="discord-brands.svg" alt="Dz3sUFK5Ch" /></a>
 <a style="outline:none;text-decoration:none;" href="https://juniornote.com" title="blog" target="_blank"><img align="center" width="40px" style="width:40px;margin:0 6px;" src="smile-wink-regular.svg" alt="https://juniornote.com" /></a>
