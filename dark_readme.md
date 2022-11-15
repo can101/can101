@@ -13,7 +13,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,vite,redux,bootstrap,tailwind,sass,styledcomponents,emotion)
  ## Backend-End Development Toolls
   ![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,redis,graphql)
- ## Deployment toolls
+ ## Deployment Toolls
  ![My Skills](https://skillicons.dev/icons?i=vercel,heroku,netlify)
 ## Development Environment Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,atom,webpack,git,github)
