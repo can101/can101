@@ -67,7 +67,7 @@
 <img src="./keyboardspeed.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
-  > video game
+  > Video game
  
 <!-- game list -->
  
@@ -77,7 +77,7 @@
 <img src="./gamelist.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
- > Small Game List
+ > Small game list
  
 <!-- count down -->
   ## Count Down
@@ -86,7 +86,7 @@
 <img src="./counter.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
-  > Countdown Example
+  > Countdown example
  
 <!-- Wall Clock -->
 <a href="https://wallclock101.netlify.app/" style="width:45%; margin:5px;"> 
@@ -96,7 +96,7 @@
  <img src="./wallclock.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
- > wall clock example
+ > Wall clock example
 
 ## Connect With Me
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dz3sUFK5Ch)
