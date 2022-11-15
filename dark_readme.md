@@ -4,7 +4,7 @@
 </a>
 </div>
 
-![header](./dark/header.png)
+![header](./header.png)
 <!-- about me -->
 ## About Me
 >my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
