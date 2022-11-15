@@ -1,5 +1,5 @@
 <div style="display:flex;justify-content:right;padding:10px;">
-<a href="https://github.com/can101/can101"/>
+<a href="https://github.com/can101"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face"  width="40" height="40" />
 </a>
 </div>
