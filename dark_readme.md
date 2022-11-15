@@ -1,10 +1,10 @@
 <div style="display:flex;justify-content:right;padding:10px;">
-<a href="./dark_readme.md"/>
+<a href="https://github.com/can101/can101"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20with%20Face.png" alt="Sun with Face"  width="40" height="40" />
 </a>
 </div>
 
-![header](./assets/dark/header.png)
+![header](./dark/header.png)
 <!-- about me -->
 ## About Me
 >my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
@@ -41,44 +41,63 @@
 
 ## Published Projects
 
-<div style="display:flex;flex-wrap:wrap;">
 <!-- juniornote.com -->
+ ## juniornote.com
+ 
 <a href="https://juniornote.com/" style="width:45%; margin:5px;">
- <b>juniornote.com</b>
-<img src="./assets/images/png/juniornote.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>My blog web site</i>
+<img src="./juniornote.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
+ 
+ > My blog web site
+ 
 <!-- Wordle Clone -->
+ 
+ ## Wordle Clone
+ 
 <a href="https://app-wordle-candevs.herokuapp.com" style="width:45%; margin:5px;">
- <b>Wordle Clone</b>
-<img src="./assets/images/png/wordle.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>Wordle video game</i>
+<img src="./wordle.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
+ 
+  > Wordle video game
+ 
 <!-- keyboard speed game -->
+ 
+  ## Keyboard Speed Game
+ 
 <a href="https://keyboard-speed-game-cancelik.vercel.app/" style="width:45%; margin:5px;">
- <b>Keyboard Speed Game</b>
-<img src="./assets/images/png/keyboardspeed.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>video game</i>
+<img src="./keyboardspeed.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
+ 
+  > video game
+ 
 <!-- game list -->
+ 
+  ## Game List
+ 
 <a href="https://can101-games.herokuapp.com/" style="width:45%; margin:5px;">
- <b>Game List</b>
-<img src="./assets/images/png/gamelist.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>small game list</i>
+<img src="./gamelist.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
+ 
+ > Small Game List
+ 
 <!-- count down -->
+  ## Count Down
+ 
 <a href="https://downcounter.netlify.app/" style="width:45%; margin:5px;">
- <b>CountDown</b>
-<img src="./assets/images/png/counter.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>countdown example</i>
+<img src="./counter.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
+ 
+  > Countdown Example
+ 
 <!-- Wall Clock -->
-<a href="https://wallclock101.netlify.app/" style="width:45%; margin:5px;">
- <b>Wall Clock</b>
-<img src="./assets/images/png/wallclock.png" width="100%" style="border-radius:10px;margin:5px 0px 0;filter:grayscale(10);"/>
-<i>wall clock example</i>
+<a href="https://wallclock101.netlify.app/" style="width:45%; margin:5px;"> 
+
+ ## Wall Clock  
+ 
+ <img src="./wallclock.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
-</div>
+ 
+ > wall clock example
 
 ## Connect With Me
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dz3sUFK5Ch)
