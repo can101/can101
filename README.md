@@ -10,9 +10,9 @@
 ## About Me
 >my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
 <!-- skills -->
- ## Front-End Development toolls
+ ## Front-End Development Toolls
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,vite,redux,bootstrap,sass,styledcomponents,emotion)
- ## Backend-End Development toolls
+ ## Backend-End Development Toolls
   ![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,redis,graphql)
  ## Deployment toolls
  ![My Skills](https://skillicons.dev/icons?i=vercel,heroku,netlify)
