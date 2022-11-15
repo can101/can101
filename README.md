@@ -23,7 +23,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 
-## GitHub stats
+## GitHub Stats
 <!-- git status -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can101&theme=light)
 
