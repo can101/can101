@@ -9,9 +9,9 @@
 ## About Me
 >my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
 <!-- skills -->
- ## Front-End Development toolls
+ ## Front-End Development Toolls
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,vite,redux,bootstrap,tailwind,sass,styledcomponents,emotion)
- ## Backend-End Development toolls
+ ## Backend-End Development Toolls
   ![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,redis,graphql)
  ## Deployment toolls
  ![My Skills](https://skillicons.dev/icons?i=vercel,heroku,netlify)
@@ -23,7 +23,7 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-## GitHub stats
+## GitHub Stats
 <!-- git status -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=can101&theme=dark)
 
@@ -62,7 +62,7 @@
  
 <!-- keyboard speed game -->
  
-  ## Keyboard Speed Game
+  ## Keyboard speed game
  
 <a href="https://keyboard-speed-game-cancelik.vercel.app/" style="width:45%; margin:5px;">
 <img src="./keyboardspeed.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
@@ -78,7 +78,7 @@
 <img src="./gamelist.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
- > Small Game List
+ > Small game list
  
 <!-- count down -->
   ## Count Down
@@ -87,17 +87,17 @@
 <img src="./counter.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
-  > Countdown Example
+  > Countdown example
  
 <!-- Wall Clock -->
 <a href="https://wallclock101.netlify.app/" style="width:45%; margin:5px;"> 
 
- ## Wall Clock  
+ ## Wall clock  
  
  <img src="./wallclock.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
- > wall clock example
+ > Wall clock example
 
 ## Connect With Me
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dz3sUFK5Ch)
