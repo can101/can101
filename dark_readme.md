@@ -5,6 +5,13 @@
 </div>
 
 ![header](./dheader.png)
+
+<!-- Discord -->
+
+<!-- useful link -->
+<!-- ## Discord -->
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/775252245620195360)](https://discord.com/users/775252245620195360)  -->
+
 <!-- about me -->
 ## About Me
 >my name is Can Çelik. I am 21 years old. I live in Istanbul, Turkey. I study computer programming at the university.I am curious person and love to learn.I develop myself in web programming and web design. 
