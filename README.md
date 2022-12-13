@@ -53,7 +53,7 @@
  
  ## Wordle Clone
  
-<a href="https://app-wordle-candevs.herokuapp.com" style="width:45%; margin:5px;">
+<a href="https://wordle-can-hero.netlify.app" style="width:45%; margin:5px;">
 <img src="./wordle.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
 </a>
  
