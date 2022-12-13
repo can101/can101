@@ -9,8 +9,8 @@
 <!-- Discord -->
 
 <!-- useful link -->
-<!-- ## Discord -->
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/775252245620195360)](https://discord.com/users/775252245620195360)  -->
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/775252245620195360)](https://discord.com/users/775252245620195360) 
 
 <!-- about me -->
 ## About Me
