@@ -70,12 +70,12 @@
   > Video game
  
 <!-- game list -->
- 
+<!--  
   ## Game List
  
 <a href="https://can101-games.herokuapp.com/" style="width:45%; margin:5px;">
 <img src="./gamelist.png" width="50%" style="border-radius:10px;margin:5px 0px 0;"/>
-</a>
+</a> -->
  
  > Small game list
  
