@@ -19,7 +19,7 @@
 ## Development Environment Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,atom,webpack,git,github)
 ## Design Tools
-![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,pr,ps,xd,au)
+![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,pr,ps,xd,ae)
 
 <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/> -->
 
