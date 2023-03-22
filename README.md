@@ -11,7 +11,7 @@
 ```My name is Can Çelik. I am 22 years old. I live in Istanbul, Turkey and I am studying computer programming at the university. I am a curious person and I love to learn. I am working on improving my skills in web development. I am in support of open-source software. I am sharing my studies and projects on GitHub. I am writing code.```
 <!-- skills -->
  ## Front-End Development Toolls
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,vite,redux,bootstrap,sass,styledcomponents,emotion)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,vue,vite,redux,bootstrap,sass,styledcomponents,emotion)
  ## Backend-End Development Toolls
   ![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,redis,graphql)
  ## Deployment Toolls
